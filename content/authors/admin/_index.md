@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Quinn Ye
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Quinn
+last_name: Ye
 
 # Status emoji
 status:
@@ -20,167 +20,187 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate in Business & Economics
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Melbourne
+    url: https://www.unimelb.edu.au
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: "mailto:quinn.ye@outlook.com"
+    label: "E-mail Me"
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: "https://www.linkedin.com/in/quinn-ye-phd"
 
+# Interests (replacing the example AI interests with your own)
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Venture Capital
+  - Entrepreneurship
+  - Innovation
+  - Startup Acceleration
+  - Industry Collaboration
+  - Fundraising
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Business & Economics
+    institution: University of Melbourne
+    date_start: 2019-09-01
+    date_end: 2025-04-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Research Focus: Venture Capital, Entrepreneurship, Strategy, Innovation, AI, International Business
+  - area: MSc Management (Pathway: Finance)
+    institution: University College London
+    date_start: 2016-09-01
+    date_end: 2017-11-30
     summary: |
-      GPA: 3.8/4.0
+      Relevant Courses:
+      - Investment Management
+      - Corporate Finance
+      - Mergers & IPO
+      - Strategy
+      - Entrepreneurship
+  - area: BSc (Hons) International Business Management
+    institution: University of Nottingham
+    date_start: 2012-09-01
+    date_end: 2016-07-01
+    summary: |
+      Relevant Courses:
+      - Financial Accounting
+      - Economics
+      - Quantitative Methods
+      - Financial Management
+      - Business Ventures
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# Work Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Managing Entrepreneurship and Innovation Course Tutor/Co-Instructor
+    company_name: University of Melbourne
+    company_url: https://www.unimelb.edu.au
+    date_start: 2023-09-01
+    date_end: 2024-06-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teaching and redesigning the Managing Entrepreneurship and Innovation course for the Bachelor in Commerce program
+  - position: First Believer
+    company_name: Startmate
+    company_url: https://startmate.com
+    date_start: 2023-09-01
+    date_end: 2023-12-01
+    summary: |2-
+      - Served on the selection board for identifying top candidates for the Startmate accelerator program
+  - position: VC Analyst and Family Office Connector
+    company_name: Ligo Partners
+    company_url: https://ligopartners.com
+    date_start: 2023-05-01
+    date_end: 2024-03-01
+    summary: |2-
+      - Sourced and analyzed venture investment deals for the Ligo Partners network, a venture arm for family offices with a combined net worth of \$224 billion USD
+      - Expanded and built the investor network in APAC regions
+  - position: Business Strategy Course Tutor
+    company_name: Melbourne Business School
+    company_url: https://www.mbs.edu
+    date_start: 2022-09-01
+    date_end: 2023-01-01
+    summary: |2-
+      - Evaluated 50 MBA students’ strategy reports, including industry analysis, value chain analysis, value proposition mapping, and blue ocean strategy pitches
+  - position: Global Macro Investment Analyst
+    company_name: Lombard Investment
+    company_url: https://www.lombardinvestment.com
+    date_start: 2018-05-01
+    date_end: 2019-07-01
+    summary: |2-
+      - Analyzed global trading opportunities in fixed income, commodities, and foreign exchange based on macroeconomic research
+      - Generated investment reports to support portfolio manager decision-making
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Research & Analytical Skills
     items:
-      - name: Python
+      - name: Quantitative Methods (STATA, R, SPSS)
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: Qualitative Methods (Interview, Case Study)
         description: ''
         percent: 80
-        icon: camera
+        icon: code-bracket
+      - name: Python
+        description: ''
+        percent: 60
+        icon: code-bracket
+  - name: Certifications
+    items:
+      - name: Certified Management Accountant (all exams passed)
+        description: ''
+        percent: 100
+        icon: circle-check
 
+# Languages
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Mandarin
+    percent: 100
+  - name: Korean
+    percent: 40
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: FBE Graduate Research Abroad Traveling Scholarship
+    date: '2024'
+    awarder: University of Melbourne
+    icon: star
+    summary: 'Travel funding scheme for graduate researchers.'
+  - title: The Melbourne Research Scholarship
+    date: '2019-present'
+    awarder: University of Melbourne
+    icon: star
+    summary: 'Offered to high-achieving graduate research students at the University of Melbourne.'
+  - title: FBE Graduate Research Enhancement Grant
+    date: '2019-present'
+    awarder: University of Melbourne
+    icon: star
+    summary: 'Provides a \$15,000 AUD research enhancement grant for Ph.D. candidates.'
+  - title: PhD Best Paper Award
+    date: '2022'
+    awarder: Department of Management and Marketing, University of Melbourne
+    icon: star
+    summary: 'Awarded for the best Ph.D. paper.'
+  - title: FBE Graduate Research Abroad Travelling Scholarship
+    date: '2022'
+    awarder: University of Melbourne
+    icon: star
+    summary: 'Travel funding scheme for graduate researchers.'
+  - title: HEC Business Challenge Winner
+    date: '2017'
+    awarder: HEC Paris
+    icon: star
+    summary: 'Awarded by HEC Paris for winning the international business challenge.'
+  - title: Dean's Scholarship
+    date: '2015, 2016'
+    awarder: University of Nottingham
+    icon: star
+    summary: 'Scholarship awarded for academic excellence.'
+  - title: State Scholarship
+    date: '2014'
+    awarder: China Scholarship Council
+    icon: star
+    summary: 'Exchange student scholarship for Chinese students to study at affiliated international universities.'
+  - title: Sungkyunkwan University Summer School Scholarship
+    date: '2014'
+    awarder: Sungkyunkwan University
+    icon: star
+    summary: 'Awarded to international students with academic excellence to attend summer school.'
+  - title: Head's Scholarship
+    date: '2013'
+    awarder: University of Nottingham
+    icon: star
+    summary: 'Scholarship awarded for academic excellence.'
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ph.D. Candidate in Business and Economics at the University of Melbourne with expertise in venture capital, entrepreneurial business, innovation, and sustainability. Experienced educator and researcher with a strong background in venture capital analysis, startup acceleration, and industry engagement. Passionate about bridging academia and industry through research, teaching, and mentorship. Demonstrated success in course design, lecture presentation, partnership development, investment analysis, and strategic consulting, aligning well with the Monash Business School’s emphasis on industry partnerships and innovation acceleration.

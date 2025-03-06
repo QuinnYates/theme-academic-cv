@@ -135,7 +135,31 @@ skills:
       - name: Certified Management Accountant (all exams passed)
         description: ''
         percent: 100
-        icon: circle-check
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Singing
+        description: ''
+        percent: 60
+        icon: microphone
+      - name: Piano
+        description: ''
+        percent: 100
+        icon: piano
+      - name: Travel
+        description: ''
+        percent: 100
+        icon: plane
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Dog
+        description: ''
+        percent: 80
+        icon: dog
+        
 
 # Languages
 languages:
@@ -151,52 +175,42 @@ awards:
   - title: FBE Graduate Research Abroad Traveling Scholarship
     date: '2024'
     awarder: University of Melbourne
-    icon: star
     summary: 'Travel funding scheme for graduate researchers.'
   - title: The Melbourne Research Scholarship
     date: '2019-present'
     awarder: University of Melbourne
-    icon: star
     summary: 'Offered to high-achieving graduate research students at the University of Melbourne.'
   - title: FBE Graduate Research Enhancement Grant
     date: '2019-present'
     awarder: University of Melbourne
-    icon: star
     summary: 'Provides a \$15,000 AUD research enhancement grant for Ph.D. candidates.'
   - title: PhD Best Paper Award
     date: '2022'
     awarder: Department of Management and Marketing, University of Melbourne
-    icon: star
     summary: 'Awarded for the best Ph.D. paper.'
   - title: FBE Graduate Research Abroad Travelling Scholarship
     date: '2022'
     awarder: University of Melbourne
-    icon: star
     summary: 'Travel funding scheme for graduate researchers.'
   - title: HEC Business Challenge Winner
     date: '2017'
     awarder: HEC Paris
-    icon: star
     summary: 'Awarded by HEC Paris for winning the international business challenge.'
   - title: Dean's Scholarship
     date: '2015, 2016'
     awarder: University of Nottingham
-    icon: star
     summary: 'Scholarship awarded for academic excellence.'
   - title: State Scholarship
     date: '2014'
     awarder: China Scholarship Council
-    icon: star
     summary: 'Exchange student scholarship for Chinese students to study at affiliated international universities.'
   - title: Sungkyunkwan University Summer School Scholarship
     date: '2014'
     awarder: Sungkyunkwan University
-    icon: star
     summary: 'Awarded to international students with academic excellence to attend summer school.'
   - title: Head's Scholarship
     date: '2013'
     awarder: University of Nottingham
-    icon: star
     summary: 'Scholarship awarded for academic excellence.'
 ---
 

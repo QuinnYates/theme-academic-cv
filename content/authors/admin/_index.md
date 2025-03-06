@@ -30,16 +30,20 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: "mailto:quinn.ye@outlook.com"
-    label: "E-mail Me"
+    url: 'mailto:quinn.ye@outlook.com'
+    label: E-mail Me
   - icon: brands/linkedin
-    url: "https://www.linkedin.com/in/quinn-ye-phd"
+    url: 'https://www.linkedin.com/in/quinn-ye-phd'
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-8161-7368
+
 
 # Interests (replacing the example AI interests with your own)
 interests:
   - Venture Capital
   - Entrepreneurship
   - Innovation
+  - Artificial Intelligence
   - Startup Acceleration
   - Industry Collaboration
   - Fundraising
@@ -49,20 +53,15 @@ education:
   - area: Ph.D. in Business & Economics
     institution: University of Melbourne
     date_start: 2019-09-01
-    date_end: 2025-04-01
+    date_end: 2025-05-01
     summary: |
       Research Focus: Venture Capital, Entrepreneurship, Strategy, Innovation, AI, International Business
-  - area: MSc Management (Pathway: Finance)
+  - area: MSc Management (Finance Pathway)
     institution: University College London
     date_start: 2016-09-01
     date_end: 2017-11-30
     summary: |
-      Relevant Courses:
-      - Investment Management
-      - Corporate Finance
-      - Mergers & IPO
-      - Strategy
-      - Entrepreneurship
+      Relevant Courses: Investment Management, Corporate Finance, Mergers & IPO, Strategy, Entrepreneurship
   - area: BSc (Hons) International Business Management
     institution: University of Nottingham
     date_start: 2012-09-01
@@ -203,4 +202,4 @@ awards:
 
 ## About Me
 
-Ph.D. Candidate in Business and Economics at the University of Melbourne with expertise in venture capital, entrepreneurial business, innovation, and sustainability. Experienced educator and researcher with a strong background in venture capital analysis, startup acceleration, and industry engagement. Passionate about bridging academia and industry through research, teaching, and mentorship. Demonstrated success in course design, lecture presentation, partnership development, investment analysis, and strategic consulting, aligning well with the Monash Business School’s emphasis on industry partnerships and innovation acceleration.
+Ph.D. Candidate in Business and Economics at the University of Melbourne with expertise in venture capital, entrepreneurial business, innovation, and sustainability. Experienced educator and researcher with a strong background in venture capital analysis, startup acceleration, and industry engagement. Passionate about bridging academia and industry through research, teaching, and mentorship. Demonstrated success in course design, lecture presentation, partnership development, investment analysis, and strategic consulting.
